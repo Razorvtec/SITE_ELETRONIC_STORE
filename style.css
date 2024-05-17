@@ -56,25 +56,25 @@
     }
 
     .arduino {
-        width: 30%;
+        width: 20%;
         display: inline;
         padding: 30px;
     }
 
     .protoboard {
-        width: 40%;
+        width: 20%;
         display:inline;
         padding: 120px;
         
     }
 
     .multimetro {
-        width: 40px;
+        width: 20px;
         margin-right: 30px;
     }
 
     .capacitor {
-        width: 15%;
+        width: 20%;
         display: inline;
         padding: 30px;
         margin-left: 60px;
@@ -91,7 +91,7 @@
     }
 
     .LED {
-        width: 15%;
+        width: 20%;
         display: inline;
         padding: 20px;
         margin-left: 140px;
