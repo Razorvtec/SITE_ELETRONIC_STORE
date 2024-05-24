@@ -12,7 +12,7 @@
 
     .cabecalho-lista-1 {
         color: white;
-        margin-left: 180px; /* alinhamento a esquerda*/
+        margin-left: 160px; /* alinhamento a esquerda*/
         padding: 40px; /*espaçamento vertical*/
         display:inline-block;
         justify-content: center;
@@ -20,7 +20,7 @@
 
     .cabecalho-lista-2 {
         color: white;
-        margin-left: 180px; /* alinhamento a esquerda*/
+        margin-left: 160px; /* alinhamento a esquerda*/
         padding: 40px; /*espaçamento vertical*/
         display:inline-block;
         justify-content: center;
